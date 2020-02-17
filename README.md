@@ -1,6 +1,6 @@
 A collection of implementations of various sorting algorithms
 
-#TODO
+# TODO:
 - Bouble Sort
 - QuickSort
 - HeapSort 

@@ -1,9 +1,6 @@
 #include "bubble_sort.h"
 
-BubbleSort::BubbleSort()
-{
-
-}
+BubbleSort::BubbleSort(){}
 
  void BubbleSort::sort(std::vector<int> &series)
 {

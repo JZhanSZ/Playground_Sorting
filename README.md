@@ -1,7 +1,10 @@
 A collection of implementations of various sorting algorithms
 
-# TODO:
+# Functional:
 - Bouble Sort
+
+# TODO:
+
 - QuickSort
 - HeapSort 
 - InsertionSort
